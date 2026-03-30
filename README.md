@@ -1,0 +1,1 @@
+https://github.com/Paul-dH/Home-Assisant-Sensor-OvApi - follow the instructions here to get your TimingPointCode, and place it in `.env`
